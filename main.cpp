@@ -103,7 +103,7 @@ int main() {
         cout << "Sorry, no slots available for " << chosenClass->getClassName() << "." << endl;
     }
     system("pause");
-    system("clear");
+    system("cls");
 
         cout << "Book another class? (y/n): ";
         cin >> continueBooking;
